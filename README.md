@@ -1,3 +1,13 @@
+# Curation scripts - Precise: Hola dial
+
+Fork of the [curation scripts](https://github.com/ShawnHymel/ei-keyword-spotting) that the dataset curation tool ["Hey, Jor'von"](https://github.com/ShawnHymel/precise-hey-jorvon) uses to create .wav files used to train a custom wake word for Mycroft AI.
+
+These are used at the [Precise: Hola dial](https://github.com/algono-sabien/precise-hola-dial) repo.
+
+---
+
+*(README from the original repo)*
+
 # Keyword Spotting with Edge Impulse
 
 ![STM32 Nucleo-L476RG and MEMS microphone breakout board](https://raw.githubusercontent.com/ShawnHymel/ei-keyword-spotting/master/images/stm32-nucleo-l476rg-mic.png)
